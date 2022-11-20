@@ -32,9 +32,9 @@ layout: util/compress_js
   {%- endif %}
 {%- endfor %}
 
-//{% if site.data.conf.main.cookie_consent.enable == true %}
-{% include_relative _js/default/cookie-consent.js %}
-//{%- endif %}
+{% if site.data.conf.main.cookie_consent.enable == true %}
+  {% include_relative _js/default/cookie-consent.js %}
+{%- endif %}
 
 {% if site.data.lang.size > 1 and site.data.conf.main.language_switch_lang_list.size > 1 and site.data.conf.main.language_translation_offer_box -%}
   {% include_relative _js/default/check-storage-availability.js %}
