@@ -1,0 +1,247 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "What's cooking?"
+    info: "Some projects I am working on"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":gears.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "Tools"
+      type: id_tools
+      color: "#62b462"
+    - title: "Projects"
+      type: id_projects
+      color: "#2FD0ED"
+
+  list:
+    - type: id_tools
+      project_name: "FIGARO"
+      project_excerpt: "Fast Inference for GW Astronomy, Research & Observations"
+      img: ":figaro-icon.png"
+      img_title: "A freehand razor"
+      date: "February 8, 2022"
+      post: |
+        [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"} is an inference code designed to estimate multivariate probability densities given samples from an unknown distribution using a Dirichlet Process Gaussian Mixture Model (DPGMM) as nonparameteric model.
+
+        It is also possible to perform hierarchical inferences: in this case, the model used is (H)DPGMM.
+
+        Differently from other DPGMM implementations relying on variational algorithms, FIGARO does not require the user to specify a priori the maximum allowed number of mixture components. The required number of Gaussian distributions to be included in the mixture is inferred from the data.
+
+        The *notebooks* folder contains a tutorial on how to use FIGARO for your research. Feel free to experiment with it and get in touch with me if you need any help!
+        
+        (Bug report is also extremely appreciated)
+
+    - type: id_tools
+      project_name: "SOLARSYSTEM"
+      project_excerpt: "2PN N-body integrator"
+      img: ":solarsystem.png"
+      img_title: "Created with Midjourney"
+      date: "December 1, 2021"
+      post: |
+        [SOLARSYSTEM](https://github.com/sterinaldi/solarsystem){:target="_blank"} is an N-body integrator based on the Crank-Nicolson method.
+
+        Despite the name, it is not specifically targeted to investigate the Solar System dynamics. Effects up to the second Post-Newtonian order are included.
+
+        Inspired by and based on Francesco Geroni's Master thesis.
+        
+    - type: id_projects
+      project_name: "Star clusters in phase space"
+      project_excerpt: "Daniele Sanfratello's Master thesis"
+      img: ":pleiades.jpg"
+      img_title: "Pleiades cluster. Credit: Miodrag Sekulic"
+      date: "May 2022"
+      post: |
+        Star clusters are groups of gravitationally bound stars which often share a common origin. These objects, especially globular clusters, are extremely useful for stellar evolution studies: the stars in them are of the same age and, being formed from the same environment, have also the same metallicity. All the evolutionary differences that can be found among stars in these clusters are to be ascribed to the different masses. Therefore, they are useful to tune the physical and initial parameters for stellar evolution.
+
+
+        In general, setting aside special cases like binary systems, direct mass, age or metallicity measurements are very imprecise or even impossible to obtain without assuming some kind of evolutionary model. Without these quantities, it is not possible to use the full definition give above to identify a star cluster. What we can rely on to observationally define a star cluster is its dynamical properties alone: we define a star cluster as a group of stars in the phase space, hence spatially close and with the same proper motion.
+
+        We are investigating the possibility of identifying star clusters in phase space by modelling the position and velocity distribution of stars with a Dirichlet Process Gaussian Mixture Model (DPGMM).
+        
+        Day-to-day supervision with Walter Del Pozzo and Veronica Roccatagliata.
+
+    - type: id_projects
+      project_name: "GW detector selection function"
+      project_excerpt: "Sensitivity estimate of search pipelines"
+      img: ":lensing.png"
+      img_title: "Created with Midjourney"
+      date: "Oct 2022"
+      post: |
+        Despite GW interferometers being *the quietest places in the world*, gravitational wave signals are buried in noise: this is due to the fact that the spacetime deformations produced by two merging black holes are extremely tiny. We are able to detect only the loudest of these events: most of them, unfortunately, are too faint even for our detectors.
+        
+        Understanding the sensitivity of our detectors to different values of black hole parameters (masses, distance, spins...) is of the greatest importance for population studies. A proper characterisation of this response function allows us to avoid the so-called *selection bias*.
+        
+        This study aims at characterising the response of our detector network and search pipelines using a dedicated set of injections, following the [LVK O3 search sensitivity estimates](https://zenodo.org/record/5546676#.Y2ebZC8w1hF).
+        
+        In collaboration with Elisa Nitoglia, Walter Del Pozzo, Viola Sordini and Roberto Chierici.
+
+    - type: id_projects
+      project_name: "GW lensing"
+      project_excerpt: "Posterior overlap analysis and non-parametric population"
+      img: ":gwlensed.jpg"
+      img_title: "Artist's impression of lensed gravitational waves. Credits: Riccardo Buscicchio (University of Birmingham)."
+      date: "Jan 28, 2022"
+      post: |
+        General relativity posits that massive objects bend the spacetime in a way that focuses the light travel near them and causes gravitational lensing. Similar to electromagnetic waves, gravitational waves can also be gravitationally lensed if they travel near massive astrophysical objects.
+        
+        The detection of lensed gravitational waves would enable a plethora of scientific pursuits, such as precision tests of speed of gravity and cosmology, dark matter detection and sub-arcsecond precision localisation of merging black holes.
+        
+        It has been forecasted that lensed gravitational waves will become detectable at design detector sensitivity, assuming that the current binary black hole detections originate from stellar remnants. Consequently, there has been a major effort to develop the necessary tools to detect and analyse lensing candidates.
+        
+        In this study, we demonstrate that wrong population assumptions (e.g. choosing a wrong functional form for the mass distribution) have a huge impact on the accuracy of lensing analysis, reducing the significativity of true lensed pairs and enhancing the one of lensing mimickers. This impact can be mitigated by using non-parametric methods.
+        
+        In collaboration with Damon H. T. Cheung, Martina Toscani and Otto A. Hannuksela.
+
+    # example
+#    - type: id_tools
+#      project_name: "Example Project"
+#      project_excerpt: "Examples"
+#      img: ":project1_thumb.jpg"
+#      img_title: "img title1"
+#      date: "2021-03-13"
+#      post: |
+#        # Examples
+#
+#        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+#
+#        ### Headings (centered)
+#        {:data-align="center"}
+#
+#        # Heading 1
+#
+#        ## Heading 2
+#
+#        ### Heading 3
+#
+#        #### Heading 4
+#
+#        ##### Heading 5
+#
+#        ###### Heading 6
+#
+#        ***
+#
+#        ### Paragraphs
+#
+#        #### Paragraph
+#
+#        **William Shakespeare**, Let me not to the marriage of true minds
+#        Admit impediments. Love is not love
+#        Which alters when it alteration finds,
+#        Or bends with the remover to remove.
+#        O no, it is an ever-fixed mark
+#        That looks on tempests and is never shaken;
+#        It is the star to every wand'ring barque,
+#        Whose worth's unknown, although his height be taken.
+#        Love's not Time's fool, though rosy lips and cheeks
+#        Within his bending sickle's compass come;
+#        Love alters not with his brief hours and weeks,
+#        But bears it out even to the edge of doom.
+#        If this be error and upon me proved,
+#        I never writ, nor no man ever loved.
+#
+#        #### Texts
+#
+#        Quoted text `Hello world`
+#
+#        Bold text **Hello world**
+#
+#        Italic text _Hello world_
+#
+#        kbd text <kbd>Hello world</kbd>
+#
+#        #### Blockquote
+#
+#        > **William Shakespeare**, Let me not to the marriage of true minds
+#        Admit impediments. Love is not love
+#        Which alters when it alteration finds,
+#        Or bends with the remover to remove.
+#        O no, it is an ever-fixed mark
+#        That looks on tempests and is never shaken;
+#        It is the star to every wand'ring barque,
+#        Whose worth's unknown, although his height be taken.
+#        Love's not Time's fool, though rosy lips and cheeks
+#        Within his bending sickle's compass come;
+#        Love alters not with his brief hours and weeks,
+#        But bears it out even to the edge of doom.
+#        If this be error and upon me proved,
+#        I never writ, nor no man ever loved.
+#
+#        ### Link
+#
+#        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+#
+#        ### Picture
+#
+#        ![such a lovely place](:projects-heading.jpg)
+#
+#        ### Picture (centered)
+#
+#        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
+#
+#        ### Lists
+#
+#        - Apple
+#        - Banana
+#        - Orange
+#
+#        1. Fruits
+#            1. Apples
+#                - Granny Smith
+#                - Mutsu
+#            1. Bananas
+#                - Cavendish
+#                - Red
+#        1. Vegetables
+#
+#        ***
+#
+#        ### Tables
+#
+#        #### Small Table (centered)
+#
+#        | Fruits(not aligned) | Alignment (centered) | num (right align) |
+#        | ------------------- | :------------------: | ----------------: |
+#        | Apple               |       centered       |              9999 |
+#        | Banana              |  centered long text  |               999 |
+#        | Orange              |       centered       |                99 |
+#        | Lemon               |       centered       |                 9 |
+#        {:data-align="center"}
+#
+#        #### Wide Table (centered)
+#
+#        scroll enabled when page is narrow
+#
+#        | Fruits | num (left align) | num (right align) | num  | num  | num  |
+#        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
+#        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
+#        | Banana | 111              |               111 | 222  | 333  | 444  |
+#        | Orange | 11               |                11 | 22   | 33   | 44   |
+#        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
+#        {:data-align="center"}
+#
+#        #### Wider Table
+#
+#        scroll enabled when page is narrow
+#
+#        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
+#        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
+#        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
+#        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
+#        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
+#        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
+#
+#        ### Code
+#
+#        #### Quote
+#
+#        ```python
+#        for i in range(5, 10):
+#          print(i)
+#        ```

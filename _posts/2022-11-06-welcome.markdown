@@ -1,0 +1,62 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+title: "But where is everybody?"
+lng_pair: id_welcome_post
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+# author: Jekyll
+# multiple category is not supported
+category: Others
+# multiple tag entries are possible
+tags: [others]
+# thumbnail image for post
+img: ":wip.jpeg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2022-11-06 14:01:30 +0100
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-01-01 10:04:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<div align="center">
+  <img src=":wip.jpeg" height="60">
+  <br><br>
+</div>
+
+<!-- outline-start -->
+This section looks rather empty, doesn't it?
+<!-- outline-end --> 
+
+Blogs often start with enthusiasm, with several posts per week, and then everything fades away:
+this blog, however, is not like every other blogs. It lacks enthusiasm from the very beginning, so please do not expect this section to fill up anytime soon. 
+
+Nothing to be seen here. Shoo.
+
+<div align="center">
+  <br><br>
+</div>
+(Nah. Just kidding. I could write something here, from time to time.)
+
+<div align="center">
+  <br><br>
+</div>
+*(maybe.)*
+
