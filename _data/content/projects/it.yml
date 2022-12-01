@@ -97,6 +97,18 @@ page_data:
         
         In collaborazione con Damon H. T. Cheung, Martina Toscani e Otto A. Hannuksela.
 
+    - type: id_tools
+      project_name: "MUFFIN"
+      project_excerpt: "Modelled-Unmodelled Fast & Flexible INference"
+      img: ":muffin.png"
+      img_title: "Un muffin"
+      date: "Dec 1, 2022"
+      post: |
+        [MUFFIN](https://github.com/sterinaldi/MUFFIN){:target="_blank"} è un codice di inferenza pensato per approssimare distribuzioni di probabilità multivariate usando un Heterogeneous Mixture Model (HMM): l'idea è quella di estendere uno o più modelli parametrici con un DPGMM per tenere conto di eventuali features non previste nei dati.
+        
+        Questo algoritmo utilizza [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"}, quindi assicuratevi di averlo installato.
+        Codice in sviluppo!
+
     # example
 #    - type: id_tools
 #      project_name: "Example Project"

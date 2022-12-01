@@ -97,6 +97,19 @@ page_data:
         In this study, we demonstrate that wrong population assumptions (e.g. choosing a wrong functional form for the mass distribution) have a huge impact on the accuracy of lensing analysis, reducing the significativity of true lensed pairs and enhancing the one of lensing mimickers. This impact can be mitigated by using non-parametric methods.
         
         In collaboration with Damon H. T. Cheung, Martina Toscani and Otto A. Hannuksela.
+    
+    - type: id_tools
+      project_name: "MUFFIN"
+      project_excerpt: "Modelled-Unmodelled Fast & Flexible INference"
+      img: ":muffin.png"
+      img_title: "A muffin"
+      date: "Dec 1, 2022"
+      post: |
+        [MUFFIN](https://github.com/sterinaldi/MUFFIN){:target="_blank"} is an inference code designed to estimate multivariate probability densities using a Heterogeneous Mixture Model (HMM): the idea is to augment one (or more) parametric model(s) with a DPGMM to account for unforeseen features in the data.
+        
+        This algorithm makes use of [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"}, so be sure of having it installed.
+        Code still under development!
+
 
     # example
 #    - type: id_tools
