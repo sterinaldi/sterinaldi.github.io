@@ -99,13 +99,13 @@ page_data:
         In collaboration with Damon H. T. Cheung, Martina Toscani and Otto A. Hannuksela.
     
     - type: id_tools
-      project_name: "MUFFIN"
-      project_excerpt: "Modelled-Unmodelled Fast & Flexible INference"
-      img: ":muffin.png"
+      project_name: "ANUBIS"
+      project_excerpt: "Astrophysical Nonparametrically Upgraded Bayesian Inference of Subpopulations"
+      img: ":anubis.png"
       img_title: "Created with Midjourney"
       date: "Dec 1, 2022"
       post: |
-        [MUFFIN](https://github.com/sterinaldi/MUFFIN){:target="_blank"} is an inference code designed to estimate multivariate probability densities using a Heterogeneous Mixture Model (HMM): the idea is to augment one (or more) parametric model(s) with a DPGMM to account for unforeseen features in the data.
+        [ANUBIS](https://github.com/sterinaldi/MUFFIN){:target="_blank"} is an inference code designed to estimate multivariate probability densities using a Heterogeneous Mixture Model (HMM): the idea is to augment one (or more) parametric model(s) with a DPGMM to account for unforeseen features in the data.
         
         This algorithm makes use of [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"}, so be sure of having it installed.
         Code still under development!
