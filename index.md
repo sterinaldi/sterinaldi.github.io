@@ -37,7 +37,7 @@ title: ""
 
 ## Welcome to my homepage!
 
-I am a Ph.D. student in Astrophysics at University of Pisa.
+I am Stefano (Ste!), a Ph.D. student in Astrophysics at University of Pisa.
 
 My research interests mainly focus on population studies of astrophysical black holes using gravitational wave observations. I also like to annoy colleagues and friends with Bayesian non-parametric methods.\
 When I'm not busy with physics, I enjoy a good book and I love playing volleyball.

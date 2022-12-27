@@ -37,7 +37,7 @@ title: ""
 
 ## Benvenuti nella mia homepage!
 
-Sono uno studente di dottorato in Astrofisica all'Università di Pisa.
+Io sono Stefano (Ste!), uno studente di dottorato in Astrofisica all'Università di Pisa.
 
 I miei interessi di ricerca vertono principalmente sugli studi di popolazione di buchi neri astrofisici utilizzando le osservazioni di onde gravitazionali. Inoltre, mi piace infastidire colleghi e amici parlando di metodi non-parametrici.\
 Quando non sono occupato con la fisica, apprezzo molto un buon libro e giocare a pallavolo.
