@@ -104,11 +104,21 @@ page_data:
       img_title: "Creato con Midjourney"
       date: "1 Dicembre 2022"
       post: |
-        [ANUBIS](https://github.com/sterinaldi/MUFFIN){:target="_blank"} è un codice di inferenza pensato per approssimare distribuzioni di probabilità multivariate usando un Heterogeneous Mixture Model (HMM): l'idea è quella di estendere uno o più modelli parametrici con un DPGMM per tenere conto di eventuali features non previste nei dati.
+        [ANUBIS](https://github.com/sterinaldi/ANUBIS){:target="_blank"} è un codice di inferenza pensato per approssimare distribuzioni di probabilità multivariate usando un Heterogeneous Mixture Model (HMM): l'idea è quella di estendere uno o più modelli parametrici con un DPGMM per tenere conto di eventuali features non previste nei dati.
         
         Questo algoritmo utilizza [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"}, quindi assicuratevi di averlo installato.
         Codice in sviluppo!
-
+    
+    - type: id_tools
+      project_name: "GALLEON"
+      project_excerpt: "Generatore di cataloghi sintetici di GW"
+      img: ":galleon.png"
+      img_title: "Creato con Midjourney"
+      date: "13 Gennaio 2023"
+      post: |
+        [GALLEON](https://github.com/sterinaldi/GALLEON){:target="_blank"} è un codice per simulare cataloghi di osservazioni di onde gravitazionali. Ad ogni evento è associato un set di posterior samples sintetici.
+        
+        Questo codice segue le prescrizioni date nell'Appendice A di [Fishbach et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab77c9/pdf).
     # example
 #    - type: id_tools
 #      project_name: "Example Project"

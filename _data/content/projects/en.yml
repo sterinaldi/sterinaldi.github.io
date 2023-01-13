@@ -105,11 +105,21 @@ page_data:
       img_title: "Created with Midjourney"
       date: "Dec 1, 2022"
       post: |
-        [ANUBIS](https://github.com/sterinaldi/MUFFIN){:target="_blank"} is an inference code designed to estimate multivariate probability densities using a Heterogeneous Mixture Model (HMM): the idea is to augment one (or more) parametric model(s) with a DPGMM to account for unforeseen features in the data.
+        [ANUBIS](https://github.com/sterinaldi/ANUBIS){:target="_blank"} is an inference code designed to estimate multivariate probability densities using a Heterogeneous Mixture Model (HMM): the idea is to augment one (or more) parametric model(s) with a DPGMM to account for unforeseen features in the data.
         
         This algorithm makes use of [FIGARO](https://github.com/sterinaldi/FIGARO){:target="_blank"}, so be sure of having it installed.
         Code still under development!
-
+    
+    - type: id_tools
+      project_name: "GALLEON"
+      project_excerpt: "Synthetic GW catalog generator"
+      img: ":galleon.png"
+      img_title: "Created with Midjourney"
+      date: "Jan 13, 2023"
+      post: |
+        [GALLEON](https://github.com/sterinaldi/GALLEON){:target="_blank"} is a code designed to generate simulated catalogs of GW observations. Each event comes with a set of synthetic posterior samples.
+        
+        The code follows the prescriptions given in Appendix A of [Fishbach et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab77c9/pdf).
 
     # example
 #    - type: id_tools
