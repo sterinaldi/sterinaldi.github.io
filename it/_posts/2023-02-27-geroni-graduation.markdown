@@ -40,4 +40,4 @@ Oggi Francesco Geroni ha discusso con successo la sua tesi dal titolo *PN N-body
 Dopo aver confrontato le varie performances di diversi schemi di integrazione numerica applicati al problema a N corpi, Francesco ha implementato un Iterated Crank-Nicholson (ICN) per integrare le equazioni di Hamilton al primo ordine Post-Newtoniano.
 Utilizzando il suo schema, è stato in grado di riprodurre alcuni effetti noti, come la dinamica del Sistema Solare e la precessione del perielio di Mercurio. Oltre a questo, ha anche studiato il comportamento di alcune stelle S0 - stelle che orbitano attorno al buco nero supermassiccio Sgr A\* al centro della nostra galassia - in regime di gravità forte.
 
-Bravo Francesco! 
+*Bravo Francesco!* 

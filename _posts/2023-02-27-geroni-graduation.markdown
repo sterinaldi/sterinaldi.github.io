@@ -40,4 +40,4 @@ Today Francesco Geroni successfully defended his Master's thesis *PN N-body inte
 After comparing the performances of different numerical integration schemes applied to the N-body problem, Francesco implemented an Iterated Crank-Nicholson (ICN) scheme to integrate the First-Order Post-Newtonian Hamilton's equations.
 With his scheme, he was able to reproduce some known effects such as the Solar System dynamics and the precession of Mercury's perihelion. On top of this, he also studied the behaviour of some S0 stars - stars orbitating the supermassive black hole Sgr A\* at the center of our galaxy - in a strong-field regime.
 
-Bravo Francesco! 
+*Bravo Francesco!* 
