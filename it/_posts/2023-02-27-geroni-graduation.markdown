@@ -6,9 +6,9 @@ lng_pair: id_geroni_post
 # if not specified, .name will be used from _data/owner/[language].yml
 # author: Jekyll
 # multiple category is not supported
-category: Viva
+category: Others
 # multiple tag entries are possible
-tags: [viva]
+tags: [others]
 # thumbnail image for post
 # img: ":wip.jpeg"
 # disable comments on this page
