@@ -63,11 +63,11 @@ page_data:
     # CV and publications
     - type: id_files
       title: "CV"
-      url: "../tabs/files/cv.pdf"
+      url: "https://drive.google.com/file/d/1WVY_1FJnrC0IQ7g6cJfDONJbhgB0aiWb/view?usp=sharing"
       info: "Curriculum Vitae"
     - type: id_files
       title: "Pubblicazioni"
-      url: "../tabs/files/publications.pdf"
+      url: "https://drive.google.com/file/d/1ZiXOgMESvgaIapnbAcjFHSExyPbGDhPa/view?usp=sharing"
       info: "Lista delle pubblicazioni"
     - type: id_files
       title: "ADS"
