@@ -49,4 +49,4 @@ After more than a year of work, I am happy to announce that our paper *Bayesian 
 
 In this paper, co-authored with Hannah Middleton (University of Birmingham), Walter Del Pozzo (University of Pisa) and Jonathan Gair (MPI-AEI Potsdam), we address the presence of possible systematics in the different experiments aimed at measuring the constant of gravitation, finding that the associated uncertanty usually quoted is significantly underestimate.
 
-Feel free to have a look at our paper at this link: https://doi.org/10.1140/epjc/s10052-023-12078-6 
+Feel free to have a look at our paper at [this link](https://doi.org/10.1140/epjc/s10052-023-12078-6)

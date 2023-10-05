@@ -49,4 +49,4 @@ Dopo più di un anno di lavoro, sono lieto di annunciare che il nostro paper *Ba
 
 In questo paper, in collaborazione con Hannah Middleton (University of Birmingham), Walter Del Pozzo (University of Pisa) e Jonathan Gair (MPI-AEI Potsdam), teniamo conto della presenza di possibili errori sistematici nei differenti esperimenti volti a misurare la costante di gravitazione universale, trovando che l'incertezza associata è sensibilmente sottostimata.
  
-Il paper lo trovate a questo link: https://doi.org/10.1140/epjc/s10052-023-12078-6 
+Il paper lo trovate a [questo link](https://doi.org/10.1140/epjc/s10052-023-12078-6)
