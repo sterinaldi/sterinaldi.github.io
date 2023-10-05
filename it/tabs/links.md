@@ -76,9 +76,19 @@ page_data:
       
     # Papers
     - type: id_papers
-      title: "Rinaldi et al. (2022)"
+      title: "Rinaldi et al. (2023)"
+      url: "https://arxiv.org/pdf/xxxx.xxxxx.pdf"
+      info: "Evidence for the evolution of black hole mass function with redshift"
+
+    - type: id_papers
+      title: "Rinaldi et al. (2023)"
       url: "https://arxiv.org/pdf/2209.07416.pdf"
       info: "Systematic errors in the determination of the constant of gravitation"
+      
+    - type: id_papers
+      title: "Cheung et al. (2023)"
+      url: "https://arxiv.org/pdf/2308.12182.pdf"
+      info: "Mitigating the effect of population model uncertainty on strong lensing Bayes factor using nonparametric methods"
 
     - type: id_papers
       title: "Rinaldi & Del Pozzo (2022b)"
