@@ -82,7 +82,7 @@ page_data:
 
     - type: id_papers
       title: "Rinaldi et al. (2023a)"
-      url: "https://arxiv.org/pdf/2209.07416.pdf"
+      url: "https://link.springer.com/content/pdf/10.1140/epjc/s10052-023-12078-6.pdf"
       info: "Systematic errors in the determination of the constant of gravitation"
       
     - type: id_papers
@@ -92,7 +92,7 @@ page_data:
 
     - type: id_papers
       title: "Rinaldi & Del Pozzo (2022b)"
-      url: "https://arxiv.org/pdf/2205.07252.pdf"
+      url: "https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slac101/6692889?guestAccessKey=7e2d2a70-4c72-471a-8445-e4e074249867"
       info: "Rapid localization of gravitational wave hosts with FIGARO"
 
     - type: id_papers
@@ -102,7 +102,7 @@ page_data:
 
     - type: id_papers
       title: "Rinaldi & Del Pozzo (2022a)"
-      url: "https://arxiv.org/pdf/2109.05960.pdf"
+      url: "https://academic.oup.com/mnras/article/509/4/5454/6424929?guestAccessKey=896e80a6-fb67-4910-99dd-bbc0256126ee"
       info: "(H)DPGMM: a hierarchy of Dirichlet process Gaussian mixture models for the inference of the black hole mass function"
 
     - type: id_papers
