@@ -76,12 +76,12 @@ page_data:
       
     # Papers
     - type: id_papers
-      title: "Rinaldi et al. (2023)"
+      title: "Rinaldi et al. (2023b)"
       url: "https://arxiv.org/pdf/xxxx.xxxxx.pdf"
       info: "Evidence for the evolution of black hole mass function with redshift"
 
     - type: id_papers
-      title: "Rinaldi et al. (2023)"
+      title: "Rinaldi et al. (2023a)"
       url: "https://arxiv.org/pdf/2209.07416.pdf"
       info: "Systematic errors in the determination of the constant of gravitation"
       
