@@ -5,7 +5,7 @@
 brand: "Ste Rinaldi"
 
 # text below the brand name
-brand_sub_text: "Institut für Theoretische Astrophysik, ZAH, Universität Heidelberg"
+brand_sub_text: "Universität Heidelberg"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Ste Rinaldi"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Postdoctoral researcher"
+  sub_title: "Postdoctoral researcher – Institut für Theoretische Astrophysik, ZAH, Universität Heidelberg"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
