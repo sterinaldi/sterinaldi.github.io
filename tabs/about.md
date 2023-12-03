@@ -36,7 +36,7 @@ img: ":ste_profile.jpeg"
 
 ## Hi there!
 
-I am Stefano (but Ste is fine!), postdoctoral researcher at the [Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. I am part of the [DEMOBLACK](http://demoblack.com) group, led by prof. Michela Mapelli
+I am Stefano (but Ste is fine!), postdoctoral researcher at the [Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. I am part of the [DEMOBLACK](http://demoblack.com) group, led by prof. Michela Mapelli.
 
 I was born in Livorno (Italy) in 1996, where I got my technical high school diploma in Electronics and Electrical Engineering. In 2020, I obtained my Master's degree in Physics with honours in Pisa defending a thesis entitled _Inference of cosmological parameters from gravitational wave observations_, supervised by Walter Del Pozzo.\
 During my Ph.D., still advised by Prof. Del Pozzo, my research interests moved towards black hole population studies: in particular, I am exploring the several possibilities offered by Bayesian non-parametric methods.
