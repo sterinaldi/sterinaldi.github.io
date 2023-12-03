@@ -36,12 +36,12 @@ img: ":ste_profile.jpeg"
 
 ## Ciao a tutti!
 
-Io sono Stefano (ma Ste va benissimo!), studente di dottorato in Astrofisica all'Università di Pisa.
+Io sono Stefano (ma Ste va benissimo!), postdoc all'[Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. Faccio parte del gruppo [DEMOBLACK](http://demoblack.com), guidato dalla prof. Michela Mapelli.
 
 Sono nato a Livorno nel 1996, dove ho conseguito il diploma di perito tecnico industriale in Elettrotecnica ed Elettronica. Nel 2020 ho conseguito la Laurea Magistrale in Fisica con Lode a Pisa, con una tesi intitolata _Inference of cosmological parameters from gravitational wave observations_, supervisionato da Walter Del Pozzo.\
 Durante il mio dottorato, sempre sotto la supervisione del Prof. Del Pozzo, i miei interessi di ricerca sono virati verso gli studi di popolazione dei buchi neri: in particolare, sto esplorando le numerose possibilità offerte dai metodi non-parametrici.
 
-Sono un lettore vorace (ma niente horror per cortesia: sono impressionabile...) e un pallavolista (gioco come *libero*, quello con la maglia diversa). Da quando mi sono trasferito a Pisa mi sono dovuto convertire al beach volley, ma lo prendo come un segno del destino: sono nato sul mare, in fondo! 
+Sono un lettore vorace (ma niente horror per cortesia: sono impressionabile...) e un pallavolista (gioco come *libero*, quello con la maglia diversa). Da quando mi sono trasferito a Pisa mi sono dovuto convertire al beach volley, ma lo prendo come un segno del destino: sono nato sul mare, in fondo! Adesso, in Germania, sono tornato di nuovo verso l'indoor.
 
 
 ## Attività di ricerca

@@ -77,8 +77,13 @@ page_data:
     # Papers
     - type: id_papers
       title: "Rinaldi et al. (2023b)"
-      url: "https://arxiv.org/pdf/xxxx.xxxxx.pdf"
-      info: "Evidence for the evolution of black hole mass function with redshift"
+      url: "https://arxiv.org/pdf/2310.03074.pdf"
+      info: "Evidence for the evolution of black hole mass function with redshift" 
+
+    - type: id_papers
+      title: "Morton et al. (2023)"
+      url: "https://arxiv.org/pdf/2310.16025.pdf"
+      info: "GW190521: a binary black hole merger inside an active galactic nucleus?"
 
     - type: id_papers
       title: "Rinaldi et al. (2023a)"
