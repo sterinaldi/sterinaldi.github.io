@@ -37,7 +37,8 @@ title: ""
 
 ## Benvenuti nella mia homepage!
 
-Io sono Stefano (Ste!), uno studente di dottorato in Astrofisica all'Università di Pisa.
+Io sono Stefano (Ste!), postdoc all'[Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. Faccio parte del gruppo [DEMOBLACK](http://demoblack.com), guidato dalla prof. Michela Mapelli.
+
 
 I miei interessi di ricerca vertono principalmente sugli studi di popolazione di buchi neri astrofisici utilizzando le osservazioni di onde gravitazionali. Inoltre, mi piace infastidire colleghi e amici parlando di metodi non-parametrici.\
 Quando non sono occupato con la fisica, apprezzo molto un buon libro e giocare a pallavolo.
