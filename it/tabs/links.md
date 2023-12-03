@@ -86,6 +86,11 @@ page_data:
       info: "GW190521: a binary black hole merger inside an active galactic nucleus?"
 
     - type: id_papers
+      title: "Sgalletta et al. (2023)"
+      url: "https://arxiv.org/pdf/2305.04955.pdf"
+      info: "Binary neutron star populations in the Milky Way"
+
+    - type: id_papers
       title: "Rinaldi et al. (2023a)"
       url: "https://link.springer.com/content/pdf/10.1140/epjc/s10052-023-12078-6.pdf"
       info: "Systematic errors in the determination of the constant of gravitation"
