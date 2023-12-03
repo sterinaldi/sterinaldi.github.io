@@ -1,0 +1,44 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+title: "GW190521"
+lng_pair: id_gw190521_post
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+# author: Jekyll
+# multiple category is not supported
+category: Papers
+# multiple tag entries are possible
+tags: [others]
+# thumbnail image for post
+# img: ":wip.jpeg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2023-10-23 08:00 +0200
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-01-01 10:04:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+<!-- outline-start -->
+GW190521: a BBH merger in an AGN?
+<!-- outline-end --> 
+
+This summer we hosted Phia Morton, a Bachelor student from the Oregon State University that, thanks to the [Univerisity of Florida's IREU program](http://www.phys.ufl.edu/ireu/), spent June and July in Pisa as summer student. Phia investigated the hypothesis that the binary system that generated the gravitational signal GW190521, the most massive confidently observed so far, merged in the accretion disk of an AGN.
+
+This hypothesis seems to be well supported by the available data: Phia's results are reported in [this paper](https://arxiv.org/pdf/2310.16025.pdf), accepted for publication in PRD. 
