@@ -75,10 +75,26 @@ page_data:
       info: "Lista completa delle pubblicazioni su ADS"
       
     # Papers
+
     - type: id_papers
-      title: "Rinaldi et al. (2023b)"
-      url: "https://arxiv.org/pdf/2310.03074.pdf"
-      info: "Evidence for the evolution of black hole mass function with redshift" 
+      title: "Rinaldi et al. (2024b)"
+      url: "https://arxiv.org/pdf/2405.07504"
+      info: "Hierarchical inference of evidence using posterior samples"
+      
+    - type: id_papers
+      title: "Rinaldi (2024)"
+      url: "https://arxiv.org/pdf/2405.06366"
+      info: "Accounting for selection biases in population analyses: equivalence of the in-likelihood and post-processing approaches"
+
+    - type: id_papers
+      title: "Iorio et al. (2024)"
+      url: "https://arxiv.org/pdf/2404.17568"
+      info: "The boring history of Gaia BH3 from isolated binary evolution"
+
+    - type: id_papers
+      title: "Rinaldi et al. (2024a)"
+      url: "https://www.aanda.org/articles/aa/full_html/2024/04/aa48161-23/aa48161-23.html"
+      info: "Evidence of evolution of the black hole mass function with redshift"
 
     - type: id_papers
       title: "Morton et al. (2023)"
@@ -87,11 +103,11 @@ page_data:
 
     - type: id_papers
       title: "Sgalletta et al. (2023)"
-      url: "https://arxiv.org/pdf/2305.04955.pdf"
+      url: "https://academic.oup.com/mnras/article/526/2/2210/7273849"
       info: "Binary neutron star populations in the Milky Way"
 
     - type: id_papers
-      title: "Rinaldi et al. (2023a)"
+      title: "Rinaldi et al. (2023)"
       url: "https://link.springer.com/content/pdf/10.1140/epjc/s10052-023-12078-6.pdf"
       info: "Systematic errors in the determination of the constant of gravitation"
       
@@ -102,7 +118,7 @@ page_data:
 
     - type: id_papers
       title: "Rinaldi & Del Pozzo (2022b)"
-      url: "https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slac101/6692889?guestAccessKey=7e2d2a70-4c72-471a-8445-e4e074249867"
+      url: "https://academic.oup.com/mnrasl/article/517/1/L5/6692889?guestAccessKey=7e2d2a70-4c72-471a-8445-e4e074249867"
       info: "Rapid localization of gravitational wave hosts with FIGARO"
 
     - type: id_papers
@@ -129,12 +145,17 @@ page_data:
     - type: id_resources
       title: "Virgo Pisa"
       url: "http://virgopisa.df.unipi.it/tiki-index.php?page=HomePage"
-      info: "Il nostro gruppo Virgo a Pisa"
+      info: "Gruppo Virgo a Pisa"
       
     - type: id_resources
-      title: "CPNest"
-      url: "https://github.com/johnveitch/cpnest"
-      info: "Parallel nested sampling in Python. Suggerisco di usare la branch massively_parallel"
+      title: "Demoblack group"
+      url: "https://demoblack.com"
+      info: "Gruppo Demoblack a Padova/Heidelberg"
+      
+    - type: id_resources
+      title: "RayNest"
+      url: "https://github.com/wdpozzo/raynest"
+      info: "Nested sampling parallelizzato in Python"
       
     - type: id_resources
       title: "FIGARO"
