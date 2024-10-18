@@ -37,7 +37,7 @@ title: ""
 
 ## Benvenuti nella mia homepage!
 
-Io sono Stefano (Ste!), postdoc all'[Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. Faccio parte del gruppo [DEMOBLACK](http://demoblack.com), guidato dalla prof. Michela Mapelli.
+Io sono Stefano (ma Ste va benissimo!), [DFG Walter Benjamin fellow](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) all'[Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA) dell'Università di Heidelberg. Collaboro con il gruppo [DEMOBLACK](http://demoblack.com), guidato dalla prof. Michela Mapelli.
 
 
 I miei interessi di ricerca vertono principalmente sugli studi di popolazione di buchi neri astrofisici utilizzando le osservazioni di onde gravitazionali. Inoltre, mi piace infastidire colleghi e amici parlando di metodi non-parametrici.\

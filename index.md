@@ -37,7 +37,7 @@ title: ""
 
 ## Welcome to my homepage!
 
-I am Stefano (Ste!), postdoctoral researcher at the [Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. I am part of the [DEMOBLACK](http://demoblack.com) group, led by prof. Michela Mapelli.
+I am Stefano (but Ste is fine!), [DFG Walter Benjamin fellow](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) at the [Institut für Theoretische Astrophysik](https://www.ita.uni-heidelberg.de/index.shtml?lang=en) (ITA), Universität Heidelberg. I collaborate with prof. Michela Mapelli's [DEMOBLACK](http://demoblack.com) group.
 
 My research interests mainly focus on population studies of astrophysical black holes using gravitational wave observations. I also like to annoy colleagues and friends with Bayesian non-parametric methods.\
 When I'm not busy with physics, I enjoy a good book and I love playing volleyball.
