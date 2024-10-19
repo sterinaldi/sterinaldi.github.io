@@ -77,6 +77,16 @@ page_data:
     # Papers
 
     - type: id_papers
+      title: "Poon et al. (2024)"
+      url: "https://arxiv.org/pdf/2406.06463"
+      info: "Galaxy lens reconstruction based on strongly lensed gravitational waves: similarity transformation degeneracy and mass-sheet degeneracy"
+
+    - type: id_papers
+      title: "Rinaldi & Del Pozzo (2024)"
+      url: "https://inspirehep.net/files/b3388867df58d50236f31d138b3c1adc"
+      info: "FIGARO: hierarchical non-parametric inference for population studies"
+
+    - type: id_papers
       title: "Rinaldi et al. (2024b)"
       url: "https://arxiv.org/pdf/2405.07504"
       info: "Hierarchical inference of evidence using posterior samples"
@@ -95,6 +105,11 @@ page_data:
       title: "Rinaldi et al. (2024a)"
       url: "https://www.aanda.org/articles/aa/full_html/2024/04/aa48161-23/aa48161-23.html"
       info: "Evidence of evolution of the black hole mass function with redshift"
+
+    - type: id_papers
+      title: "Dotti et al. (2023)"
+      url: "https://www.aanda.org/articles/aa/pdf/2023/12/aa46916-23.pdf"
+      info: "A fast test for the identification and confirmation of massive black hole binaries"
 
     - type: id_papers
       title: "Morton et al. (2023)"
@@ -136,17 +151,9 @@ page_data:
       url: "https://arxiv.org/pdf/2103.14663.pdf"
       info: "On the importance of source population models for gravitational-wave cosmology"
 
+
     # Resources
-    - type: id_resources
-      title: "EGO"
-      url: "https://www.ego-gw.it"
-      info: "European Gravitational Observatory"
-      
-    - type: id_resources
-      title: "Virgo Pisa"
-      url: "http://virgopisa.df.unipi.it/tiki-index.php?page=HomePage"
-      info: "Gruppo Virgo a Pisa"
-      
+
     - type: id_resources
       title: "Demoblack group"
       url: "https://demoblack.com"
