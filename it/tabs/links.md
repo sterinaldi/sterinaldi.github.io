@@ -77,6 +77,11 @@ page_data:
     # Papers
 
     - type: id_papers
+      title: "Ng et al. (2024)"
+      url: "https://arxiv.org/pdf/2410.23541"
+      info: "Inferring cosmology from gravitational waves using non-parametric detector-frame mass distribution"
+
+    - type: id_papers
       title: "Poon et al. (2024)"
       url: "https://arxiv.org/pdf/2406.06463"
       info: "Galaxy lens reconstruction based on strongly lensed gravitational waves: similarity transformation degeneracy and mass-sheet degeneracy"
