@@ -77,6 +77,11 @@ page_data:
     # Papers
 
     - type: id_papers
+      title: "Rinaldi & Ramírez-Tannus. (2024)"
+      url: "https://www.aanda.org/articles/aa/full_html/2024/12/aa51694-24/aa51694-24.html"
+      info: "Non-parametric identification of single-lined binary candidates in young clusters using single-epoch spectroscopy"
+
+    - type: id_papers
       title: "Ng et al. (2024)"
       url: "https://arxiv.org/pdf/2410.23541"
       info: "Inferring cosmology from gravitational waves using non-parametric detector-frame mass distribution"
